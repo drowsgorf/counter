@@ -19,12 +19,13 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="26dp"
-        android:layout_height="66dp"
+        android:layout_width="333dp"
+        android:layout_height="73dp"
         android:layout_marginStart="352dp"
         android:layout_marginTop="121dp"
         android:layout_marginEnd="353dp"
         android:text="0"
+        android:textAlignment="center"
         android:textSize="48sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
